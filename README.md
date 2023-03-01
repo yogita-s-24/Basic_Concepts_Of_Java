@@ -35,6 +35,8 @@
    #While Loop
 => Syntax:  while(condition)
             {
-              // code to be exicuted
+              // code to be executed
             }
+
+
 
