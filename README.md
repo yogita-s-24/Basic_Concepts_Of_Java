@@ -37,8 +37,9 @@
             {
               // code to be executed
             }
+            
 
-   # If else 
+   # if-else 
  => Syntax: if(condition)
             {
                  // Statement
@@ -47,4 +48,26 @@
              {
                 //Statement
               }
-
+              
+              
+    # if-else-if
+  => Syntax: if(condition 1)
+             {
+               // code to be executed if condition 1 is true.
+             }
+             else if(condition 2)
+             {
+               // code to be executed if condition 2 is true.
+             }
+              else(condition)
+             {
+               // code to be executed if condition 3 is true.
+             }
+              else(condition)
+             {
+               // code to be executed if condition 4 is true.
+             }
+             else
+             {
+               // code to be executed if all the conditions are false.
+             }
