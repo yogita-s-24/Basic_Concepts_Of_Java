@@ -50,7 +50,7 @@
               }
               
               
-    # if-else-if
+  # if-else-if
   => Syntax: if(condition 1)
              {
                // code to be executed if condition 1 is true.
