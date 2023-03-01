@@ -32,3 +32,9 @@
    6.High Performance
    7.Secured
    
+   #While Loop
+=> Syntax:  while(condition)
+            {
+              // code to be exicuted
+            }
+
