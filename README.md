@@ -71,3 +71,15 @@
              {
                // code to be executed if all the conditions are false.
              }
+
+
+   # do-while loop
+  => Syntax:
+            do{
+                //code to be execute
+                // i++;
+               } while(condition);
+            
+            
+            
+   
