@@ -23,7 +23,7 @@
   (12) Java SE 10 (20th Mar 2018) 
   (13) Java SE 11/12/13/14(2020)
    
-   #Features of Java 
+   # Features of Java 
 => 1.Simple 
    2.Object-Oriented
    3.Multithreaded 
@@ -32,11 +32,19 @@
    6.High Performance
    7.Secured
    
-   #While Loop
+   # While Loop
 => Syntax:  while(condition)
             {
               // code to be executed
             }
 
-
+   # If else 
+ => Syntax: if(condition)
+            {
+                 // Statement
+             }
+             else
+             {
+                //Statement
+              }
 
