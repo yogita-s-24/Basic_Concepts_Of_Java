@@ -49,6 +49,16 @@
                 //Statement
               }
               
+             e.g if(n%2==0)
+                 {
+                   System.out.println("Number is even.");
+                 }
+                 else
+                 {
+                  System.out.println("Number is odd.");
+                 }
+                 
+              
               
   # if-else-if
   => Syntax: if(condition 1)
